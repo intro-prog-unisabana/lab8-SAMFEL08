@@ -70,4 +70,4 @@ except IndexError as e:
     print(e)
 
 except ValueError as e:
-    print
+    print(e)
